@@ -1,0 +1,1 @@
+# atlas-hook-artefacts
